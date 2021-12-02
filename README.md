@@ -2,5 +2,5 @@ The HTU is a community-centered decentralized NFT+DEFI cloud platform built on t
 
 Using HTU in combination with DEFI's strong financial attributes can not only expand HTU's ecological territory, but also bring more benefits to HTU holders
 
-[website](https://hongtucheng.com/)
+[Home](https://hongtucheng.com/) |
 [HTU Pool](https://app.hongtucheng.com/)
